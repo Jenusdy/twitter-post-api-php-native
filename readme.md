@@ -8,7 +8,7 @@ This is an script for post a tweet on Twitter using API with programming languan
 ```php
 composer require abraham/twitteroauth
 ```
-- Sign-up and create API_KEY (here)[https://developer.twitter.com/]
+- Sign-up and create API_KEY [here](https://developer.twitter.com/)
 
 ## About
-Visit www.jenusdy.github.io 
+Visit[my website](www.jenusdy.github.io )
